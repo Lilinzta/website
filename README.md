@@ -1,5 +1,3 @@
 ## example
 
-```url
-https://www.example.com
-```
+[example](https://www.example.com)
